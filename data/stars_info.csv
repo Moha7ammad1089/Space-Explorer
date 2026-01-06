@@ -1,0 +1,21 @@
+﻿Name,Description,Mass (M☉),Radius (R☉),Luminosity,Temp. (K),Spectral Type,Age,Distance (ly),Fun Facts,Examples
+"Giant Supergiant Stars (e.g., Betelgeuse, Antares)","These stars are among the most massive and luminous in the universe. They have evolved off the main sequence and expanded to enormous sizes, often exhibiting dramatic mass loss and unstable atmospheres.Their cool surface temperatures (in the case of red supergiants) contrast with their enormous luminosity. They play a crucial role in enriching the interstellar medium and serve as precursors to supernova explosions.",Typically 10–20 M☉ (varies widely),Approximately 300–1000 R☉,"Up to ~100,000× that of the Sun",~3500–4500 K (for red supergiants),M (red) or O/B (blue supergiants),A few million years,Varies (hundreds to thousands ly),"1. Among the largest stars by radius. |
+2. Exhibit significant mass loss. |
+3. Precursors to supernovae. |
+4. Key for cosmic distance calibration. |
+5. Variable brightness over time.","Betelgeuse, Antares, VY Canis Majoris"
+"Neutron Stars Pulsars","Neutron star pulsars are the compact, highly magnetized remnants left behind after a supernova explosion. They rotate rapidly and emit beams of electromagnetic radiation, which appear as regular pulses when observed from Earth.Their extreme densities and magnetic fields create conditions where physics is pushed to its limits. Their precise pulsations serve as cosmic clocks and help probe the physics of matter under extreme pressures.",~1.4 M☉,~0.000014 R☉ (∼10 km),Varies (dominated by high-energy emissions),"~1,000,000 K",Pulsar (no traditional spectral type),~0.01 Gyr (∼10 million years or less),Varies (typically thousands ly),"1. Incredibly dense. |
+2. Rapid rotation. |
+3. Intense magnetic fields. |
+4. Emit regular pulses. |
+5. Remnants of supernova explosions.","Crab Pulsar, Vela Pulsar, PSR B1937+21"
+"Main Sequence Stars (No Collection Stars, e.g., Sun-like)","Main sequence stars are stable, hydrogen-burning stars that constitute the majority of stars in the galaxy. They maintain equilibrium between gravity and nuclear fusion, providing a steady output of energy over billions of years.These stars are the foundation for planetary systems and are essential to the development of life. Their predictable evolution and energy production make them key benchmarks in stellar astronomy.",Typically 0.5–2 M☉ (for Sun-like stars),Approximately 0.5–2 R☉,Roughly 1 L☉ for Sun-like stars (varies widely),~5500–6000 K (for Sun-like stars),G-type (for Sun-like stars; overall range from O to M),Up to ~10 Gyr,Varies widely,"1. Most common type of star. |
+2. Steady hydrogen fusion. |
+3. Hosts planetary systems. |
+4. Long, stable lifetimes. |
+5. Essential for life-supporting conditions.","Sun, Alpha Centauri A, Proxima Centauri"
+"White Dwarfs","White dwarfs are the compact remnants of low- to intermediate-mass stars that have exhausted their nuclear fuel. They are characterized by high densities and gradual cooling over billions of years.Despite their small size, these stellar embers provide valuable insights into stellar evolution and serve as cosmic chronometers for estimating the ages of stellar populations.",Typically 0.6–1.4 M☉,~0.01 R☉ (approximately Earth-sized),"Very low, often <0.001 L☉","~10,000 K (can vary with age)","Typically DA, DB, etc. (White Dwarf)",Several Gyr,Varies widely,"1. Extremely dense. |
+2. Earth-sized. |
+3. End stage for Sun-like stars. |
+4. Slowly cooling. |
+5. Useful for age-dating star clusters.","Sirius B, Procyon B, 40 Eridani B"

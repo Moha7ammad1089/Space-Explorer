@@ -1,0 +1,41 @@
+﻿Name,Description,Mass,Radius,Period (days),Semi-major axis (AU),Temp (K),Discovery Method,Disc Year,Distance (ly),Host Star Mass (M☉),5 Fun Facts
+Mercury,"Mercury is the innermost planet and is known for its extreme temperature swings. Being closest to the Sun, its surface is scorched during the day and plunges to very cold temperatures at night, with a barren, cratered landscape that tells the tale of ancient impacts. Despite its small size, Mercury provides valuable insight into the early solar system; its large iron core and nearly non-existent atmosphere make it a natural laboratory for studying planetary formation and the effects of intense solar radiation.",0.055 Earth masses,0.383 Earth radii,87.97,0.387,~440 (varies widely),Known since antiquity,Prehistory,~0.0000158 ly,1,"1. Extreme temperature fluctuations. |
+2. Heavily cratered surface. |
+3. Large metallic core. |
+4. Almost no atmosphere. |
+5. 3:2 spin–orbit resonance."
+Venus,"Venus is often called Earth’s twin due to its similar size and mass, yet it has a harsh environment with a thick, toxic atmosphere. This runaway greenhouse effect drives surface temperatures to around 737 K, making it the hottest planet in the solar system. Hidden beneath dense clouds of sulfuric acid, Venus’ surface shows signs of extensive volcanic activity and resurfacing events; its retrograde rotation – spinning in the opposite direction to most planets – adds to its many mysteries.",0.815 Earth masses,0.949 Earth radii,224.7,0.723,~737,Known since antiquity,Prehistory,~0.0000158 ly,1,"1. Dense, toxic atmosphere. |
+2. Runaway greenhouse effect. |
+3. Retrograde rotation. |
+4. One of the brightest objects in the sky. |
+5. Surface hidden by thick clouds."
+Earth,"Earth is the only planet known to harbor life, with a dynamic environment supporting a diverse range of ecosystems. Its abundant liquid water, breathable atmosphere, and protective magnetic field make it unique among celestial bodies. Geologically active with shifting tectonic plates, Earth features mountains, oceans, and vast plains; its single natural satellite – the Moon – plays a key role in stabilizing the climate and affecting tidal patterns.",1 Earth masses,1 Earth radii,365.25,1,~288 (average),Known since antiquity,Prehistory,~0.0000158 ly,1,"1. Only planet known to support life. |
+2. Abundant liquid water. |
+3. One large natural satellite (the Moon). |
+4. Diverse climates and ecosystems. |
+5. Active plate tectonics."
+Mars,"Mars, known as the Red Planet, is celebrated for its iron oxide–rich surface that gives it a distinctive reddish hue. Its landscape features vast volcanoes, deep canyons, and polar ice caps, making it a prime candidate for studying past water activity. With a thin atmosphere and evidence of ancient riverbeds, Mars continues to intrigue scientists and explorers alike; robotic missions have been sent to analyze its geology and search for signs of past habitability, making it a focus for future human exploration.",0.107 Earth masses,0.532 Earth radii,686.98,1.524,~210 (average),Known since antiquity,Prehistory,~0.0000158 ly,1,"1. Reddish appearance due to iron oxide. |
+2. Home to Olympus Mons (tallest volcano). |
+3. Contains Valles Marineris canyon system. |
+4. Evidence of ancient water flows. |
+5. Two small moons: Phobos and Deimos."
+Jupiter,"Jupiter is the giant of our solar system – a massive gas giant noted for its swirling cloud bands and the iconic Great Red Spot, a storm larger than Earth that has raged for centuries. Its enormous size and gravitational pull have shaped the orbits of nearby objects and act as a shield for the inner planets. In addition, Jupiter is orbited by an extensive family of moons (including Europa and Ganymede) which intrigue scientists with the possibility of subsurface oceans; its complex magnetosphere and layered cloud structure continue to be subjects of intensive study.",317.8 Earth masses,11.21 Earth radii,4332.59,5.204,~165 (average),Known since antiquity,Prehistory,~0.0000158 ly,1,"1. Largest planet in the solar system. |
+2. Home to the Great Red Spot. |
+3. At least 79 known moons. |
+4. Powerful magnetic field. |
+5. Distinct banded atmosphere."
+Saturn,"Saturn is best known for its spectacular ring system composed of countless particles of ice and rock. Its pastel-hued atmosphere and delicate rings create one of the most stunning sights in the solar system. Beyond its rings, Saturn hosts a diverse array of moons – most notably Titan with its thick atmosphere and Enceladus with its icy plumes; its remarkably low density means that it would float in water if a container were large enough.",95.2 Earth masses,9.45 Earth radii,10759,9.582,~134,Known since antiquity,Prehistory,~0.0000158 ly,1,"1. Iconic ring system. |
+2. Low density (would float in water). |
+3. Numerous and diverse moons. |
+4. Prominent banded cloud structures. |
+5. Titan’s dense atmosphere."
+Uranus,"Uranus is an ice giant distinguished by its blue–green hue, caused by methane in its atmosphere absorbing red light. Uniquely, it rotates nearly on its side with an axial tilt of about 98°, resulting in extreme seasonal variations as its poles face the Sun for decades at a time. Its relatively bland atmosphere is complemented by a faint ring system and a collection of moons that hint at a complex history; this unusual sideways orientation and chilly, methane-rich envelope make Uranus a fascinating outlier in the solar system.",14.5 Earth masses,4.01 Earth radii,30687,19.218,~76,Discovered via telescope,1781,~0.0000158 ly,1,"1. Extreme axial tilt. |
+2. Faint, complex ring system. |
+3. 27 known moons. |
+4. Drastic seasonal changes. |
+5. Blue–green color from methane."
+Neptune,"Neptune is the most distant of the eight major planets – an ice giant renowned for its vivid deep blue color and dynamic weather systems. With the fastest winds recorded in the solar system, its atmosphere is a turbulent blend of storms and dark spots that evolve over time. Its discovery was a triumph of mathematical prediction and telescopic observation; its system of faint rings along with its retrograde-orbiting moon Triton continue to shed light on the outer regions of our solar system.",17.1 Earth masses,3.88 Earth radii,60190,30.07,~72,Mathematically predicted & observed,1846,~0.0000158 ly,1,"1. Fastest winds in the solar system. |
+2. Presence of a Great Dark Spot. |
+3. Discovered via mathematical prediction. |
+4. 14 known moons. |
+5. Faint, clumpy rings."

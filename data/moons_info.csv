@@ -1,0 +1,31 @@
+﻿Name,Description,Mass (M),Radius (R),Period (days),Semi-major axis (AU),Temp (K),Discovery method,Disc. Year,Distance (ly),Host Planet Mass,5 Fun Facts
+Callisto,"Callisto is one of Jupiter’s Galilean moons with an ancient, heavily cratered surface that records billions of years of impacts. Its composition is a roughly equal mix of rock and ice, and it shows little geological activity compared to its siblings.Scientists believe Callisto may harbor a subsurface ocean, and its inert surface makes it an excellent record of early solar system history.",~1.46 lunar masses,~0.38 Earth radii,~16.69,~0.0126,~120,Telescopic observations by Galileo,1610,≈0 ly,Jupiter (≈1 M<sub>Jup</sub>),"1. Heavily cratered surface. |
+2. Potential subsurface ocean. |
+3. Minimal geological activity. |
+4. Mixed rock and ice composition. |
+5. Ancient impact record."
+Europa,"Europa is a smooth, icy moon orbiting Jupiter that has captivated researchers with evidence of a possible subsurface ocean beneath its fractured surface. Its relatively young, sparsely cratered ice shell hints at recent geological activity.Europa’s tidal interactions with Jupiter generate internal heat, fueling the prospect of liquid water and making it one of the prime candidates in the search for extraterrestrial life.",~0.65 lunar masses,~0.25 Earth radii,~3.55,~0.00448,~102,Telescopic observations by Galileo,1610,≈0 ly,Jupiter (≈1 M<sub>Jup</sub>),"1. Smooth icy surface. |
+2. Likely subsurface ocean. |
+3. Tidal heating drives activity. |
+4. Sparse crater record. |
+5. Top candidate for life."
+Ganymede,"Ganymede is the largest moon in the solar system, even exceeding the size of the planet Mercury. Its surface features a mix of highly cratered regions and relatively smooth, grooved terrains that indicate past tectonic processes.Ganymede is unique among moons because it possesses its own magnetic field and may also hide a subsurface ocean, making it a key object of study in planetary science.",~2.02 lunar masses,~0.41 Earth radii,~7.15,~0.00716,~110,Telescopic observations by Galileo,1610,≈0 ly,Jupiter (≈1 M<sub>Jup</sub>),"1. Largest moon in the solar system. |
+2. Own magnetic field. |
+3. Grooved terrain and craters. |
+4. Possible internal ocean. |
+5. Diverse geology."
+Io,"Io is the most volcanically active body in the solar system, with hundreds of active volcanoes and a constantly renewing surface. Its intense tidal heating from Jupiter drives massive volcanic eruptions that shape its colorful, sulfur-rich landscape.Io’s extreme geology provides insight into tidal heating and volcanic processes, making it a natural laboratory for understanding extreme planetary environments.",~1.21 lunar masses,~0.29 Earth radii,~1.77,~0.00282,~110,Telescopic observations by Galileo,1610,≈0 ly,Jupiter (≈1 M<sub>Jup</sub>),"1. Extreme volcanism. |
+2. Intense tidal heating. |
+3. Sulfur-rich surface. |
+4. Rapid surface renewal. |
+5. Unique volcanic landscapes."
+Moon,"Moon is our closest celestial neighbor and the only natural satellite of our planet. Its surface is characterized by vast basaltic plains (maria), rugged highlands, and numerous impact craters that chronicle its long history.Deeply interwoven with human culture and science, the Moon’s influence extends to Earth’s tides and has inspired centuries of exploration and study.",1.00 lunar mass,~0.27 Earth radii,~27.32,~0.00257,~220,Known since prehistory,Prehistory,≈0 ly,Earth (1 M<sub>⊕</sub>),"1. Only natural satellite of Earth. |
+2. Influences Earth’s tides. |
+3. Features maria and highlands. |
+4. Source of lunar rock samples. |
+5. Cultural and scientific icon."
+Titan,"Titan, Saturn’s largest moon, is unique for its dense, nitrogen-rich atmosphere and surface lakes of liquid methane and ethane. Its thick, hazy atmosphere and varied terrain of dunes, rivers, and possibly cryovolcanoes make it one of the most Earth-like worlds in the solar system.Titan’s complex climate and potential subsurface ocean have made it a focus of astrobiological interest, highlighting its importance in understanding the diversity of moon environments.",~1.83 lunar masses,~0.40 Earth radii,~15.95,~0.00817,~94,Discovered by Christiaan Huygens,1655,≈0 ly,Saturn (~0.3 M<sub>Jup</sub>),"1. Dense, nitrogen atmosphere. |
+2. Lakes of methane and ethane. |
+3. Varied surface features. |
+4. Possible subsurface ocean. |
+5. Key astrobiological target."

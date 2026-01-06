@@ -1,0 +1,16 @@
+﻿Name,Description,Mass (M☉),Diameter,Morphological Type,Distance (ly),Luminosity,Discovery Method,Disc. Year,Fun Facts
+Elliptical Galaxies,"Elliptical galaxies are characterized by their smooth, ellipsoidal shapes and nearly featureless light profiles. They predominantly contain older stars with minimal gas and dust, and they exhibit little ongoing star formation—suggesting a history of mergers and dynamical evolution that has erased any disk-like features. Their uniform structure and simple appearance make them key to understanding the processes of galaxy aging and the role of dark matter in shaping cosmic structures.",≈10^11–10^12 M☉,"≈30,000–300,000 ly",Elliptical,≈50 million ly (example),≈10^10–10^11 L☉,Optical telescopes and deep-sky surveys,1785,"1. Lack significant interstellar dust. |
+2. Predominantly host older, red stars. |
+3. Often found in galaxy clusters. |
+4. Brightness profiles typically follow a de Vaucouleurs law. |
+5. Likely formed through multiple merger events."
+Irregular Galaxies,"Irregular galaxies lack a defined structure and exhibit chaotic, asymmetrical appearances without clear spiral arms or elliptical shapes. They are typically rich in gas and dust, which fuels vigorous star formation and results in a mix of young, blue stars alongside older populations. Their disorganized structure is often the result of gravitational interactions or past collisions, making them excellent laboratories for studying the impact of dynamical disturbances on star formation and galaxy evolution.",≈10^9–10^10 M☉,"≈5,000–20,000 ly",Irregular,≈10 million ly (example),≈10^8–10^9 L☉,Optical surveys and deep-sky imaging,1820,"1. Lack a defined shape. |
+2. Rich in gas and dust. |
+3. Host bursts of active star formation. |
+4. Often show signs of gravitational interactions. |
+5. Provide clues to early galaxy evolution."
+Spiral Galaxies,"Spiral galaxies feature a flat, rotating disk with well-defined spiral arms extending from a central bulge, all often surrounded by a diffuse halo of stars. They exhibit a mix of young, blue stars in the arms and older, redder stars in the bulge, accompanied by abundant interstellar gas and dust that continuously fuel star formation. Their organized structure provides valuable insights into the dynamics of galactic rotation, the influence of dark matter, and the processes governing star formation, making them some of the most extensively studied systems in the universe.",≈10^11 M☉,"≈100,000 ly",Spiral,≈20 million ly (example),≈10^10 L☉,Optical telescopes and photographic surveys,1781,"1. Characterized by distinct spiral arms. |
+2. Home to active star-forming regions. |
+3. Contain prominent central bulges with older stars. |
+4. Rotation curves reveal the presence of dark matter. |
+5. The Milky Way is a classic example."

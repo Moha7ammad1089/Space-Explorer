@@ -1,0 +1,26 @@
+﻿Name,Description,Mass,Radius,Period (days),Semi-Major Axis (AU),Temp. (K),Discovery Method,Disc. Year,Distance (ly),Host Star Mass (M☉),Fun Facts
+Ceres,"Ceres is the largest object in the asteroid belt between Mars and Jupiter and is the only dwarf planet located in the inner solar system. It was the first dwarf planet to be visited by a spacecraft when NASA’s Dawn mission explored it from 2015 to 2018. Ceres is composed of rock and ice and has a thin atmosphere that may contain water vapor. It is believed to have a subsurface ocean, raising questions about the possibility of microbial life.",0.00015  Earth Masses,~0.074 Earth Radii,"1,681 days (~4.6 years)",2.77 AU,~167 K,Telescope,1801,0.00027 ly,1 M☉ (Sun),"1. Largest object in the asteroid belt. |
+2. May have a subsurface ocean. |
+3. Surface contains bright salt deposits. |
+4. Classified as both an asteroid and a dwarf planet. |
+5. Named after the Roman goddess of agriculture."
+Eris,"Eris is the most massive known dwarf planet, located in the scattered disk beyond the Kuiper Belt. It is slightly smaller than Pluto but has a higher density. Its surface is covered with a layer of nitrogen-rich ice, and it has a small moon named Dysnomia. Eris's discovery prompted the reclassification of Pluto and the formal definition of the term ""dwarf planet.""",0.00278  Earth Masses,~0.182 Earth Radii,"20,560 days (~56.3 years)",67.78 AU,~42 K,Telescope,2005,0.00051 ly,1 M☉ (Sun),"1. More massive than Pluto. |
+2. Surface reflects almost all sunlight, making it very bright. |
+3. Caused Pluto to be reclassified. |
+4. Dysnomia is its only known moon. |
+5. Surface is covered with methane ice."
+Haumea,"Haumea is an elongated dwarf planet known for its fast rotation, which gives it an oval shape. It is part of the Kuiper Belt and has two moons, Hiʻiaka and Namaka. Haumea’s surface is composed mostly of crystalline water ice, and it is believed to have a rocky core. Its fast rotation period is one of the shortest of any known large body in the solar system.",0.00074  Earth Masses,~0.128 Earth Radii,"103,776 days (~283.3 years)",43.22 AU,~50 K,Telescope,2004,0.00048 ly,1 M☉ (Sun),"1. Fastest rotating large body in the solar system. |
+2. First dwarf planet known to have a ring. |
+3. Its two moons are named after Hawaiian deities. |
+4. Surface is covered with water ice. |
+5. Shaped like a flattened ellipsoid."
+Makemake,"Makemake is the second-brightest object in the Kuiper Belt after Pluto. It has a reddish hue due to the presence of methane on its surface. Makemake has one known moon, discovered in 2016, which helps measure its mass. It lacks a significant atmosphere but may have a transient atmosphere when it is closer to the Sun.",0.0007  Earth Masses,~0.112 Earth Radii,"111,852 days (~306.2 years)",45.79 AU,~30 K,Telescope,2005,0.00049 ly,1 M☉ (Sun),"1. Second-brightest Kuiper Belt object. |
+2. Has a reddish surface. |
+3. Named after a Rapa Nui deity. |
+4. First observed around Easter, inspiring its name. |
+5. Lacks a significant atmosphere."
+Pluto,"Pluto is the largest known dwarf planet and was once classified as the ninth planet of the solar system. It has a complex surface with mountains of water ice and plains of frozen nitrogen. Pluto has five known moons, the largest being Charon, which is nearly half its size. The New Horizons mission provided detailed images of Pluto in 2015.",0.00218  Earth Masses,~0.187 Earth Radii,"90,465 days (~248 years)",39.48 AU,~44 K,Telescope,1930,0.00045 ly,1 M☉ (Sun),"1. Largest known dwarf planet. It was counted as one of the solar planets before classfied as a dwarf planet.
+2. Has a ""heart-shaped"" region named Tombaugh Regio.
+3. Its moon Charon creates a binary system.
+4. Has an atmosphere of nitrogen, methane, and carbon monoxide.
+5. Named after the Roman god of the underworld."

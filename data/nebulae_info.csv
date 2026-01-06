@@ -1,0 +1,16 @@
+﻿Name,Description,Type,Size,Distance (ly),Temp. (K),Discovery Method,Disc. Year,Fun Facts
+Planetary Nebulae,"Planetary nebulae form when stars similar to the Sun expel their outer layers during the final stages of stellar evolution. They often display intricate, symmetrical ring-like or bipolar shapes with vivid colors arising from ionized gases.",Planetary,Typically around 0.1–1 light year across,"Varies widely; generally from 1,000 to several thousand","Central stars >100,000 K; nebular gas ~10,000 K","Optical telescopes, spectroscopy, imaging",Discovered over centuries (notable ones from 18th–20th century),"1. Short-lived on cosmic scales. |
+2. Not related to planets despite the name. |
+3. Exhibit diverse morphologies. |
+4. Enrich the interstellar medium. |
+5. Reveal stellar evolution processes."
+Emission Nebulae,"Emission nebulae are clouds of ionized gas that emit their own light due to the recombination of electrons with ions. They are commonly found in regions of active star formation, where ultraviolet light from young, hot stars ionizes the surrounding gas, causing it to glow in distinctive hues.These nebulae provide key insights into stellar life cycles and the chemical enrichment of the interstellar medium. Their varied morphologies and dynamic structures make them important objects of study in understanding how stars die and recycle material back into space.These nebulae are often studied in specific wavelengths (like H-alpha) to understand star-forming processes and the dynamics of interstellar gas. Their striking appearance and vibrant colors make them some of the most visually captivating regions in the cosmos.",Emission,"Varies by object; e.g., the Orion Nebula spans about 24 ly","Typically between 1,300 and 1,600 ly for prominent examples","Generally 7,000–10,000 K in the ionized regions",Optical telescopes and spectroscopic surveys,Historically known; detailed studies from the 20th century.,"1. Glow due to ionized hydrogen. |
+2. Major star-forming regions. |
+3. Display complex structures. |
+4. Their colors trace chemical compositions. |
+5. Serve as cosmic laboratories for stellar formation."
+Reflection Nebulae,"Reflection nebulae do not emit light on their own but instead shine by reflecting and scattering the light of nearby stars. They typically appear blue because shorter wavelengths scatter more efficiently, giving these clouds a soft, diffused glow. These nebulae are key to studying interstellar dust properties and the interaction of light with cosmic particles. They often accompany emission nebulae in star-forming regions and help astronomers understand the composition and distribution of dust in the galaxy.",Reflection,Generally a few light years across,"Often within 400 to 1,000 ly",Dust temperatures typically range from 50 to 150 K,Photographic imaging and optical telescope surveys,Identified throughout the 19th–early 20th centuries,"1. Appear blue due to scattering. |
+2. Do not generate their own light. |
+3. Often found with emission nebulae. |
+4. Reveal interstellar dust properties. |
+5. Their visibility depends on the illuminating star."

@@ -1,0 +1,26 @@
+﻿Name,Description,Mass (M),Radius (R),Period (days),Semi-major axis (AU),Temp (K),Discovery method,Disc. Year,Distance (ly),Host star mass (M☉),5 Fun Facts
+51 Pegasi b,"51 Pegasi b is a pioneering exoplanet notable for being the first discovered orbiting a sun-like star. It is a hot Jupiter with a very short orbital period and close proximity to its host star.Discovered in 1995, it has become a benchmark for studying atmospheric properties and planetary migration, revolutionizing exoplanet research.",0.46 Jupiter masses,~1.8 Jupiter radii,4.23,0.052,~1400,Radial velocity,1995,~50 ly,1.11 M☉,"1. First exoplanet around a sun-like star. |
+2. Prototype of hot Jupiters. |
+3. Extremely short orbital period. |
+4. Revolutionized exoplanet research. |
+5. Orbits a G-type star."
+GJ 1214 b,"GJ 1214 b is a super-Earth/mini-Neptune orbiting a red dwarf star. It is renowned for its potential water-rich atmosphere and is among the best-studied small exoplanets discovered via the transit method.Discovered in 2009, this exoplanet provides insight into the transition between rocky planets and gas-dominated mini-Neptunes, making it a prime target for atmospheric characterization.",~6.3 Earth masses,~2.7 Earth radii,1.58,0.014,~550,Transit,2009,~48 ly,0.16 M☉,"1. Classified as a super-Earth/mini-Neptune. |
+2. Orbits a red dwarf. |
+3. Potential water-rich atmosphere. |
+4. Discovered via the transit method. |
+5. Prime target for atmospheric characterization."
+Kepler-10 b,"Kepler-10 b is a rocky, terrestrial exoplanet—the first confirmed rocky world discovered by the Kepler mission. Extremely close to its host star, it endures very high surface temperatures and is likely tidally locked. Discovered in 2011, its high density suggests an Earth-like composition in a much harsher environment, offering valuable insights into the formation and evolution of rocky exoplanets.",~4.6 Earth masses,~1.4 Earth radii,0.84,0.016,~2150,Transit,2011,~560 ly,~0.90 M☉,"1. First confirmed rocky exoplanet. |
+2. Extremely high surface temperatures. |
+3. Likely tidally locked. |
+4. High density indicates a rocky composition. |
+5. Discovered by the Kepler mission."
+Kepler-22 b,"Kepler-22 b is a super-Earth located in the habitable zone of its host star, raising the possibility of liquid water on its surface. Its size—falling between Earth and Neptune—sparks interest regarding its composition and habitability. Discovered in 2011 via the transit method, its temperate orbit makes it a key candidate for studying potentially habitable exoplanets, though its mass remains somewhat uncertain.",Estimated ~8 Earth masses (uncertain),~2.4 Earth radii,289.9,0.85,~262,Transit,2011,~620 ly,~0.97 M☉,"1. Located in the habitable zone. |
+2. Potential for liquid water. |
+3. Size between Earth and Neptune. |
+4. Orbits a Sun-like star. |
+5. Sparked significant interest in exoplanet habitability."
+WASP-12b,"WASP-12b is an extremely hot Jupiter known for its inflated size and blistering temperatures due to its very close orbit to its star. Its atmosphere is being significantly stripped by intense stellar radiation.Discovered in 2008 via the transit method, WASP-12b challenges traditional models of gas giant evolution with its extreme environment and unusual composition.",~1.4 Jupiter masses,~1.8 Jupiter radii,1.09,0.023,~2500,Transit,2008,~900 ly,~1.35 M☉,"1. Extremely hot and inflated. |
+2. Significant tidal distortion. |
+3. Atmosphere is being stripped away. |
+4. Orbits extremely close to its star. |
+5. Possible carbon-rich composition."

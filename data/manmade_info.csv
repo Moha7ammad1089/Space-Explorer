@@ -1,0 +1,46 @@
+﻿Name,Description,Type,Mass (kg),Dimensions,Launch Date,Orbit Type,Operator,Mission,Status,Discovery Method,Fun Facts
+Rockets,"Rockets are launch vehicles designed to propel payloads into space using high-energy propellant combustion; they typically consist of multiple stages, engines, and structural components engineered to withstand extreme forces and temperatures during launch.",Rocket,Varies widely; typically from tens of thousands to over a million kg,Generally tens of meters tall with diameters of a few meters,Determined per mission schedule,Not applicable (they deliver payloads into orbit),"Operated by government agencies or private companies (e.g., NASA, SpaceX, Roscosmos)","Deliver satellites, space stations, or interplanetary probes into space",Active/Retired depending on design,Telemetry and ground-based tracking,"1. Primary means for accessing space. |
+2. Use staged propulsion for efficiency. |
+3. Feature both expendable and reusable designs. |
+4. Represent major engineering achievements. |
+5. Evolve continually with technological advances."
+Satellites,"Satellites are man-made objects placed into orbit around Earth or other celestial bodies; they serve functions ranging from communication, weather forecasting, and navigation to scientific research, incorporating advanced sensors and electronics for remote data collection and transmission.",Satellite,Ranges from a few kg (CubeSats) to several tons,"Varies from compact cubes to large, complex structures",Launched per mission requirements,"LEO, MEO, GEO, HEO, polar, or interplanetary orbits","Operated by governmental, commercial, or international organizations","Enable communications, observation, navigation, and scientific research",Active/Decommissioned as applicable,"Tracked via radar, optical telescopes, and telemetry","1. Revolutionized global communications. |
+2. Enable weather forecasting. |
+3. Vary greatly in size and function. |
+4. Often operate autonomously. |
+5. Provide vital data about Earth and space."
+Space Debris,"Space debris consists of non-functional, man-made objects orbiting Earth, such as spent rocket stages, defunct satellites, and fragments from collisions; these remnants pose risks to operational spacecraft due to their high relative velocities in orbit.",Space Debris,Ranges from grams (small fragments) to thousands of kg,Varies from tiny paint flecks to large rocket bodies or satellite components,Corresponds to original launch dates (may be decades old),"Predominantly LEO, but also found in GEO and other orbits",Not applicable; tracked by space agencies and international monitoring networks,No mission – considered remnants of past missions,Non-operational; monitored,"Detected by radar, optical tracking, and space surveillance systems","1. Growing concern for orbital safety. |
+2. Travel at extremely high speeds. |
+3. Even small debris can cause significant damage. |
+4. Thousands of objects are currently tracked. |
+5. Active efforts are underway for debris removal technologies."
+International Space Station,"The International Space Station is a habitable, modular laboratory that orbits Earth in low Earth orbit; it is a collaborative multinational effort featuring interconnected modules, solar arrays, and docking ports, and serves as a research platform for a wide range of scientific experiments in microgravity.",Space Station,"Approximately 420,000 kg","Roughly 109 m in length, 73 m in width, and 20 m in height",First module launched in 1998; continuously inhabited since 2000,Low Earth Orbit (LEO),"Operated by an international consortium (NASA, Roscosmos, ESA, JAXA, CSA)","Support scientific research, technology demonstrations, and international collaboration in space",Active,"Constructed and assembled in orbit on 20 November, 1998 ","1. Largest man-made structure in space. |
+2. Hosts international astronauts. |
+3. Orbits Earth about every 90 minutes. |
+4. Supports over 200 experiments. |
+5. Visible from Earth under certain conditions."
+Tiangong Space Station,"Tiangong Space Station is a modular space station developed as a platform for scientific research and crewed missions; it features multiple modules for habitation, research, and control, representing a major step in its country’s expanding space exploration program.",Space Station,"Core module around 20,000 kg with overall mass increasing as modules are added",Core module approximately 16 m in length; overall dimensions grow with additional modules,First module launched in 2021; assembly ongoing,Low Earth Orbit (LEO),"Operated by the national space agency (e.g., CNSA i.e Chinese National Space Administration)","Facilitate scientific research, technology demonstrations, and crewed space exploration",Active,"Constructed and assembled in orbit on 29 April, 2021","1. Demonstrates rapid advancements in national space capability. |
+2. Modular design allows gradual expansion. |
+3. Supports international research collaborations. |
+4. Equipped with advanced scientific instruments. |
+5. Represents a new era in space station design."
+Landers,"Landers are spacecraft designed for controlled descent and soft landing on celestial bodies; they carry instruments to perform on-site analysis of surface composition, atmosphere, and geological features, often operating autonomously after touchdown.",Lander,Typically from a few hundred kg to several thousand kg,"Compact, rugged design optimized for impact absorption and stability on surfaces",Mission-dependent; landing occurs after transit,Not applicable (designed for surface operation),Operated by government space agencies or research institutions,Conduct surface analysis and in-situ scientific experiments,Operational/Completed depending on mission,Delivered via a rocket and guided descent system,"1. Provide direct analysis of surface materials. |
+2. Often equipped with robotic arms and instruments. |
+3. Can operate autonomously after landing. |
+4. Enable precise study of extraterrestrial geology. |
+5. Have broadened our understanding of other worlds. |"
+Orbiters,"Orbiters are spacecraft engineered to enter and maintain orbit around celestial bodies; they are equipped with sensors and cameras to conduct long-term mapping, atmospheric analysis, and surface observation, contributing essential data for understanding planetary systems.",Orbiter,Typically ranges from several hundred kg to tens of thousands kg,Compact or moderately sized with solar panels and antennae designed for orbital maneuvers,Launched per mission profile; enter orbit after insertion burn,"Varies by target: polar, equatorial, or highly elliptical orbits",Operated by national space agencies or research institutions,"Provide comprehensive mapping, imaging, and scientific data about the target body",Operational/Completed depending on mission,Inserted into orbit using dedicated orbital maneuvers,"1. Offer extended observation periods. |
+2. Can operate for many years in orbit. |
+3. Provide high-resolution imaging and data. |
+4. Help prepare future landing missions. |
+5. Serve as a key element in planetary exploration strategies."
+Probes,"Probes are unmanned spacecraft designed for deep-space exploration; they travel through interplanetary space to study the environments of distant planets, moons, and the interstellar medium, transmitting critical scientific data back to Earth during flybys or orbital insertions.",Probe,Varies widely from a few hundred kg to several thousand kg,"Designed for long-duration, deep-space travel with streamlined, robust structures",Launch dates vary by mission; designed for interplanetary trajectories,Interplanetary or flyby trajectories,Operated by government space agencies or international collaborations,Collect scientific data from distant celestial bodies and interplanetary space,Operational/Completed depending on mission,Tracked by telemetry and deep-space network systems,"1. Explore distant regions of the solar system. |
+2. Provide our first close-up views of new worlds. |
+3. Are built for long-duration missions. |
+4. Transmit invaluable data back to Earth. |
+5. Pave the way for future human exploration."
+Rovers,"Rovers are mobile robotic vehicles designed to traverse the surfaces of celestial bodies; they are equipped with scientific instruments, cameras, and mobility systems to analyze surface composition, topography, and environmental conditions while sending real-time data back to Earth.",Rover,"Typically ranges from a few hundred kg to around 1,000 kg","Compact, robust chassis with wheels or tracks, designed to navigate uneven terrain",Mission-specific; landing occurs following a dedicated launch and descent,Not applicable (operational on the surface),Operated by government space agencies and research organizations,Conduct detailed surface exploration and scientific analysis of planetary environments,Operational/Completed depending on mission,Delivered to the surface via a lander system and deployed,"1. Traverse and study alien terrains. |
+2. Equipped with high-resolution imaging systems. |
+3. Can analyze soil and rock samples on-site. |
+4. Operate autonomously over long durations. |
+5. Have revolutionized our understanding of planetary surfaces."

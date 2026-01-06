@@ -1,0 +1,21 @@
+﻿Name,Type/Category,Description,Mass,Diameter,Orbital Period,Semi-major Axis (AU),Composition,Discovery Method,Disc. Year,Fun Facts
+Asteroid Belt,Belt,"The Asteroid Belt is a region between Mars and Jupiter filled with millions of rocky bodies that never coalesced into a planet. It is characterized by a diverse range of compositions and sizes, from small fragments to large asteroids like Ceres and Vesta.Its location and dynamics have been shaped by the gravitational influence of Jupiter, and it serves as a remnant of early solar system formation.",~4% of the Moon's mass (est.),Objects range from meters to hundreds of km; belt extends roughly 2.1–3.3 AU from the Sun,Varies (average ~4.6 years for main belt asteroids),Typically ~2.1–3.3 AU (range of constituent objects),"Mix of carbonaceous, silicate, and metallic materials",Telescope surveys and space missions,Prehistory (known since telescopic observations),"1. Contains most known and millions of asteroids | 
+2. Divided into inner and outer regions | 
+3. Remnant of planetary formation |
+4. Jupiter’s gravity shapes its structure |
+5. Home to the dwarf planet Ceres"
+Kuiper Belt,Belt,"The Kuiper Belt is a vast circumstellar disc beyond Neptune’s orbit, populated by icy bodies and dwarf planets. It is considered the source of many short-period comets and offers clues to the solar system's formation beyond the giant planets.This belt stretches from about 30 to 55 AU from the Sun and contains objects that are remnants from the early solar system, preserving primordial material.",Estimated total mass < 0.1 Earth masses,Objects range from a few km to over 2400 km (largest being Pluto-sized),Varies widely; Pluto’s orbital period is ~248 years,~30–55 AU (range of objects),"Icy and rocky, with volatile compounds",Discovered via deep-sky telescopic surveys,1992 (recognition as a distinct region),"1. Extends beyond Neptune’s orbit | 
+2. Home to dwarf planets like Pluto and Haumea | 
+3. Contains icy bodies and comets |
+4. Estimated to hold over 100,000 objects larger than 100 km |
+5. Source of many short-period comets"
+Asteroids,Asteroid,"Asteroids are rocky remnants from the early solar system that never coalesced into a planet. They are primarily found in the asteroid belt between Mars and Jupiter, though some orbit closer to Earth.These bodies vary widely in size and composition and provide key insights into the formation and evolution of our solar system.",Varies widely (approx. 10^12 to 10^21 kg),Ranges from meters to hundreds of kilometers,Typically a few years (for main belt asteroids),Usually between 2.1 and 3.3 AU (for main belt objects),"Mix of carbonaceous, silicate, and metallic materials",Discovered via telescope surveys and space missions,Early 19th century onward,"1. Remnants of solar system formation |
+2. Exhibit diverse compositions |
+3. Some approach Earth (near-Earth objects) |
+4. Source of many meteorites |
+5. Crucial for understanding planetary formation "
+Comets,Comet,"Comets are icy bodies originating from the outer regions of the solar system (e.g., the Kuiper Belt or Oort Cloud). They consist of volatile ices, dust, and rock, which is why they are often called “dirty snowballs.”When a comet nears the Sun, solar heating causes its ices to sublimate, forming a glowing coma and a characteristic tail that always points away from the Sun, offering a glimpse into primordial solar system material.",Varies widely (approx. 10^12 to 10^16 kg),Typically a few kilometers to tens of kilometers,Short-period comets: a few years to decades; long-period comets: up to thousands of years,"Can range from a few AU to hundreds or thousands of AU, depending on the orbit","Primarily icy with dust, organic compounds, and rocky material",Discovered through telescopic observations (and recorded since ancient times),Ancient records & modern discoveries from the 18th century onward,"1. Develop glowing comas and tails |
+2. Originate from distant reservoirs like the Oort Cloud |
+3. Tails always point away from the Sun |
+4. Often cause meteor showers |
+5. Preserve primordial solar system material "
