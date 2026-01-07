@@ -1,7 +1,0 @@
-streamlit
-numpy
-pandas
-Pillow
-tensorflow-cpu
-python-dotenv
-openai
